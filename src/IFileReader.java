@@ -1,5 +1,5 @@
 public interface IFileReader {
 
-    public void openFile();
+    public void openFile(String cheminFichier);
     public void closeFile();
 }
