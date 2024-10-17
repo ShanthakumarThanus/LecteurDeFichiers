@@ -29,7 +29,4 @@ Fonctionnalités
 
 ## Exemples
 
-Vous pouvez tester le programme avec des fichiers situés dans le dossier example_files/.
-Dépendances
-
-Aucune dépendance externe n’est requise pour ce projet. Il fonctionne avec la bibliothèque standard de Java.
+Vous pouvez tester le programme avec des fichiers situés dans le dossier /src.
