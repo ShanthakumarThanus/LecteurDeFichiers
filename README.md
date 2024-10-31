@@ -8,8 +8,8 @@
 - Afficher le contenu d’un fichier de manière palindromique (inversion caractère par caractère).
 - Comparer le contenu de deux fichiers pour déterminer s’ils sont identiques.
 
-## Le projet utilise une approche orientée objet, avec une classe abstraite FileType et des implémentations spécifiques pour chaque format de fichier (FileTxt, FileCsv, FileJson).
-Fonctionnalités
+Le projet utilise une approche orientée objet, avec une classe abstraite FileType et des implémentations spécifiques pour chaque format de fichier (FileTxt, FileCsv, FileJson).
+## Fonctionnalités
 
 - Prise en charge de plusieurs types de fichiers : TXT, CSV, JSON.
 - Lecture de contenu de fichier : Affiche le contenu d’un fichier tel quel.
