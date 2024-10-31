@@ -25,8 +25,6 @@ Le projet utilise une approche orientée objet, avec une classe abstraite FileTy
   - Afficher le contenu des fichiers dans différents formats.
   - Comparer deux fichiers.
 
-Le programme prend en charge les fichiers de type TXT, CSV et JSON.
-
 ## Exemples
 
 Vous pouvez tester le programme avec des fichiers situés dans le dossier /src.
