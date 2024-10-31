@@ -1,15 +1,14 @@
 # Projet Lecteur de Fichiers
-
 ## Description
 
-Le Projet Lecteur de Fichiers est une application Java qui permet aux utilisateurs de lire et traiter différents types de fichiers, notamment les fichiers TXT, CSV et JSON. Le programme offre plusieurs fonctionnalités :
+## Le Projet Lecteur de Fichiers est une application Java qui permet aux utilisateurs de lire et de traiter différents types de fichiers, notamment les fichiers TXT, CSV et JSON. Le programme offre plusieurs fonctionnalités :
 
     Afficher le contenu d’un fichier dans l’ordre normal.
     Afficher le contenu d’un fichier à l’envers (ordre des lignes inversé).
     Afficher le contenu d’un fichier de manière palindromique (inversion caractère par caractère).
     Comparer le contenu de deux fichiers pour déterminer s’ils sont identiques.
 
-Le projet suit une approche orientée objet en définissant une classe abstraite FileType et en implémentant des lecteurs spécifiques pour chaque format de fichier (FileTxt, FileCsv, FileJson).
+## Le projet utilise une approche orientée objet, avec une classe abstraite FileType et des implémentations spécifiques pour chaque format de fichier (FileTxt, FileCsv, FileJson).
 Fonctionnalités
 
     Prise en charge de plusieurs types de fichiers : TXT, CSV, JSON.
@@ -25,7 +24,8 @@ Fonctionnalités
     Suivez les instructions dans la console pour :
         Afficher le contenu des fichiers dans différents formats.
         Comparer deux fichiers.
-    Le programme prend en charge les fichiers de type TXT, CSV, et JSON.
+
+Le programme prend en charge les fichiers de type TXT, CSV et JSON.
 
 ## Exemples
 
